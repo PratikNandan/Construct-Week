@@ -8,6 +8,15 @@ In this project we are performing testing in Selenium (using POM Design Pattern)
 
 ### Selenium | Cypress | Rest Assured
 
+## Project Type
+
+- Automation Testing
+- API Testing
+
+## Deployed Resources
+- [Tutorials Ninja - Automation Testing](https://tutorialsninja.com/demo/)
+- [Rest API Example - API Testing](https://dummy.restapiexample.com/)
+
 ## Codebase Languages 
 
 ![Static Badge](https://img.shields.io/badge/Java-17202C)
@@ -96,7 +105,7 @@ node -v
 npm install cypress --save-dev
 ```
 
-## Scrennshots
+## Screenshots
 
 ### Data driven using Excel
 
