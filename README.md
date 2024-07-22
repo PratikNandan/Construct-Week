@@ -44,6 +44,7 @@ In this project we are performing testing in Selenium (using POM Design Pattern)
 ## Directory Structure
 
 Construct Week/
+
 ├── CW_Rest_Assured
 │   
 ├── Construct Week Cypress
